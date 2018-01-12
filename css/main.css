@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Oxygen');
+
+.card {
+    background-color: #FFFFFF;
+    color: white;
+    margin: 1rem;
+}
+
+p,h5{
+    font-family: 'Oxygen', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3,h2{
+    text-align: center;
+    font-family: 'Crimson Text', Times, "Times New Roman", serif;
+}
+
+
+body {
+    background-color: #FFE7C9;
+}
+
+.card-body {
+    background-color: #4C7777;
+}
+
+footer {
+    position: absolute;
+    color: white;
+    padding: 1rem;
+    background-color: #A0FFB4;
+    text-align: center;
+   
+}
+nav{
+    background-color: #FF925E;
+}
+
+.fa {
+    color: FFFFFF;
+    float: right;
+    margin: 1rem;
+
+}
+
+
+form{
+    margin-bottom:5rem;
+}
